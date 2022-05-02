@@ -10,7 +10,7 @@ Ahora bien necesitaremos adquirir un dominio para el cual usaremos Freenom, es i
 
 Como se habia indicado debemos certificar nuestro sitio, con la herramienta de NGINX podremos realizarlo, primero la instalaremos y de esto hecho se correra el siguiente comando 
 
-sudo certbot --nginx certonly -d *dominio* -d www.*dominio*
+sudo certbot --nginx certonly -d -dominio- -d www.-dominio-
 
 
 Bien ahora todo esta hecho y podemos usar nuestra pagina
